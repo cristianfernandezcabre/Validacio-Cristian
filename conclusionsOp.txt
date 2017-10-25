@@ -1,0 +1,1 @@
+Durante el proyecto no nos surgió ninguna complicacion grande, solo pequeños problemas con el css y algun script que no teniamos muy claro que hacia, conseguimos hacer hasta los formularios de introducir nuevos anuncios y de tener algo mas de tiempo habriamos acabado de hacer sesiones con usuarios para que solo usuarios registrados pudiesen crear los anuncios.
